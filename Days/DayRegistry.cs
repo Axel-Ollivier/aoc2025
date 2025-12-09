@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 
-namespace AdventOfCode.Days;
+namespace aoc2025.Days;
 
 internal sealed record DayDefinition(string Label, Func<string> Run);
 
@@ -22,7 +22,7 @@ internal static class DayRegistry
             if (type is not { IsClass: true, IsAbstract: true, IsSealed: true })
                 continue;
 
-            if (!string.Equals(type.Namespace, "AdventOfCode.Days", StringComparison.Ordinal))
+            if (!string.Equals(type.Namespace, "aoc2025.Days", StringComparison.Ordinal))
                 continue;
 
             if (!type.Name.StartsWith("Day", StringComparison.OrdinalIgnoreCase))

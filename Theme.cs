@@ -1,7 +1,7 @@
 using Terminal.Gui;
 using GuiAttribute = Terminal.Gui.Attribute;
 
-namespace AdventOfCode;
+namespace aoc2025;
 
 internal static class Theme
 {

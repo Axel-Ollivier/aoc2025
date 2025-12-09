@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Linq;
-using AdventOfCode.Days;
+using aoc2025.Days;
 using Terminal.Gui;
 
-namespace AdventOfCode;
+namespace aoc2025;
 
 internal static class Program
 {
