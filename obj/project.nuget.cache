@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "n2xg3kYLvVRrqY3jEDwWq/ShEmMeIclCPvwHs9zG1cfIFiAllNkmqTTP7+y6mbU9DZ2r2tRCsxOaLD+vxIpqCA==",
+  "success": true,
+  "projectFilePath": "/home/aollivier/Develop/advent-of-code-2025/aoc2025.csproj",
+  "expectedPackageFiles": [
+    "/home/aollivier/.nuget/packages/nstack.core/1.1.1/nstack.core.1.1.1.nupkg.sha512",
+    "/home/aollivier/.nuget/packages/system.codedom/9.0.4/system.codedom.9.0.4.nupkg.sha512",
+    "/home/aollivier/.nuget/packages/system.management/9.0.4/system.management.9.0.4.nupkg.sha512",
+    "/home/aollivier/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512",
+    "/home/aollivier/.nuget/packages/terminal.gui/1.19.0/terminal.gui.1.19.0.nupkg.sha512"
+  ],
+  "logs": []
+}

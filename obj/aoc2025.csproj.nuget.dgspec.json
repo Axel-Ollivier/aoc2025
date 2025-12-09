@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/aollivier/Develop/advent-of-code-2025/aoc2025.csproj": {}
+  },
+  "projects": {
+    "/home/aollivier/Develop/advent-of-code-2025/aoc2025.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/aollivier/Develop/advent-of-code-2025/aoc2025.csproj",
+        "projectName": "aoc2025",
+        "projectPath": "/home/aollivier/Develop/advent-of-code-2025/aoc2025.csproj",
+        "packagesPath": "/home/aollivier/.nuget/packages/",
+        "outputPath": "/home/aollivier/Develop/advent-of-code-2025/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/aollivier/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Terminal.Gui": {
+              "target": "Package",
+              "version": "[1.19.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.119/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
